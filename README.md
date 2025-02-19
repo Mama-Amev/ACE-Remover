@@ -1,2 +1,2 @@
-# ACE-Remover
-Bat file to remove ACE anti-cheat in case it's not removed from the game uninstall.
+# Anti-Cheat Removers
+Bat files to remove specific anti-cheats.
